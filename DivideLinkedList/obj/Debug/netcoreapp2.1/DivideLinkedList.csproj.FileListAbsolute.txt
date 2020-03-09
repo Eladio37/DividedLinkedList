@@ -1,0 +1,11 @@
+D:\INTEC\OneDrive - INTEC\Trimestre #7\Estructura de Datos y Algoritmos I - Lab\GitHub\DivideLinkedList\DivideLinkedList\bin\Debug\netcoreapp2.1\DivideLinkedList.deps.json
+D:\INTEC\OneDrive - INTEC\Trimestre #7\Estructura de Datos y Algoritmos I - Lab\GitHub\DivideLinkedList\DivideLinkedList\bin\Debug\netcoreapp2.1\DivideLinkedList.runtimeconfig.json
+D:\INTEC\OneDrive - INTEC\Trimestre #7\Estructura de Datos y Algoritmos I - Lab\GitHub\DivideLinkedList\DivideLinkedList\bin\Debug\netcoreapp2.1\DivideLinkedList.runtimeconfig.dev.json
+D:\INTEC\OneDrive - INTEC\Trimestre #7\Estructura de Datos y Algoritmos I - Lab\GitHub\DivideLinkedList\DivideLinkedList\bin\Debug\netcoreapp2.1\DivideLinkedList.dll
+D:\INTEC\OneDrive - INTEC\Trimestre #7\Estructura de Datos y Algoritmos I - Lab\GitHub\DivideLinkedList\DivideLinkedList\bin\Debug\netcoreapp2.1\DivideLinkedList.pdb
+D:\INTEC\OneDrive - INTEC\Trimestre #7\Estructura de Datos y Algoritmos I - Lab\GitHub\DivideLinkedList\DivideLinkedList\obj\Debug\netcoreapp2.1\DivideLinkedList.csprojAssemblyReference.cache
+D:\INTEC\OneDrive - INTEC\Trimestre #7\Estructura de Datos y Algoritmos I - Lab\GitHub\DivideLinkedList\DivideLinkedList\obj\Debug\netcoreapp2.1\DivideLinkedList.csproj.CoreCompileInputs.cache
+D:\INTEC\OneDrive - INTEC\Trimestre #7\Estructura de Datos y Algoritmos I - Lab\GitHub\DivideLinkedList\DivideLinkedList\obj\Debug\netcoreapp2.1\DivideLinkedList.AssemblyInfoInputs.cache
+D:\INTEC\OneDrive - INTEC\Trimestre #7\Estructura de Datos y Algoritmos I - Lab\GitHub\DivideLinkedList\DivideLinkedList\obj\Debug\netcoreapp2.1\DivideLinkedList.AssemblyInfo.cs
+D:\INTEC\OneDrive - INTEC\Trimestre #7\Estructura de Datos y Algoritmos I - Lab\GitHub\DivideLinkedList\DivideLinkedList\obj\Debug\netcoreapp2.1\DivideLinkedList.dll
+D:\INTEC\OneDrive - INTEC\Trimestre #7\Estructura de Datos y Algoritmos I - Lab\GitHub\DivideLinkedList\DivideLinkedList\obj\Debug\netcoreapp2.1\DivideLinkedList.pdb
