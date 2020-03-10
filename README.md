@@ -1,8 +1,9 @@
 # Split a Circular Linked List
 
-Given a Cirular Linked List split it into two halves circular lists. If there are odd number of nodes in the given circular linked list
-then out of the resulting two halved lists, first list should have one node more than the second list. The resultant lists should also be
-circular lists and not linear lists.
+Given a Circular Linked List (you must implement this class) you must divide the list into two (2) halves. If the list has an odd amount
+of elements, then the first half must contain one (1) more than the second half. The result must be two (2) circular linked lists. For
+example, given the simple circular list 5-> 2-> 1-> 3-> 7-> 4-> 0, then the result will be: 5-> 2-> 1-> 3 (first list) and 7- > 4-> 0
+(second list) where both lists will also be simple circular
 
 Dada una Lista Enlazada Circular (deben implementar esta clase) debe dividir la lista en dos (2) mitades. Si la lista posee una cantidad
 de elementos impar, entonces la primera mitad debe contener un (1) elemento mas que la segunda mitad. El resultado deben ser dos (2)
